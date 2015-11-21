@@ -1,0 +1,2 @@
+D:\Android_HELP\CriminalIntent_Camera\app\build\intermediates\classes\debug
+D:\Android_HELP\CriminalIntent_Camera\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4d7a597f81ea7946ec33f221beb0fa4e468680f6.jar
